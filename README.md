@@ -7,7 +7,7 @@ improvements (see [Changelog](#changelog)).  Originally released by [NGM
 Design](https://ngm-design.com/) ([@ngmdesign](https://twitter.com/ngmdesign))
 under CC BY-NC 4.0.
 
-## source
+## Source
 
 Design files for versions 1.0, 1.5, and 2.0 (files in this repository) are on Thingiverse and Printables.
 
@@ -15,7 +15,20 @@ Design files for versions 1.0, 1.5, and 2.0 (files in this repository) are on Th
 - v1.5 - [Thingiverse](https://www.thingiverse.com/thing:4593595) // [Printables](https://www.printables.com/en/model/70201-akufu36-ver15-original-mechanical-keyboard-case-pl)
 - v2.0 - [Thingiverse](https://www.thingiverse.com/thing:4593582) // [Printables](https://www.printables.com/en/model/70200-akufu36-ver20-original-mechanical-keyboard-case-pl)
 
+## Packaging
+
+The v2.0 design files were downloaded from Printables.  `*.step` and `*.stl`
+files were extracted and placed in repository subdirectory `akufu36`.  All
+other files were deleted.  Modifications are made in this subdirectory then repackaged into `akufu36.zip`:
+
+```
+zip -jr akufu36.zip akufu36/
+```
+
 ## Changelog
 
-- Use https://stl-mirror.beekeeb.com/ to reflect included top, bottom, and switch plate files. Relabel `l` (original) and `r` (generated).
+- Use https://stl-mirror.beekeeb.com/ to reflect included top, bottom, and
+  switch plate files. Relabel `l` (original) and `r` (generated).
+
+
 
