@@ -7,6 +7,10 @@ A repository containing design files for akufu36 with some minor improvements
 Design](https://ngm-design.com/) ([@ngmdesign](https://twitter.com/ngmdesign))
 under CC BY-NC 4.0.
 
+## Disclaimer
+
+I am not the original author of this project. This repository simple repackages NGM Design's files orgininally distributed on Thingiverse. I also add some additional files to the original releases which I note in the [Changelog](https://github.com/sboysel/akufu36#changelog). As with the original afuku36 files, any modifications contained in this repository also fall under CC BY-NC 4.0.
+
 ## Source
 
 Design files for v1.0, v1.5, and v2 are on Thingiverse and Printables.
